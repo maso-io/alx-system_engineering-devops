@@ -1,0 +1,1 @@
+bash shell redirection exercises
